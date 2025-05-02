@@ -1,1 +1,1 @@
-apenas estudando, o projeto não é meu, estou treinando com a alura
+editando um projeto da alura para treinar javascript.
